@@ -5,6 +5,8 @@ Simple HTML and models to create a compatible ARKIT webpage.
 The model used can not be used for commercial use. Feel free to use for placeholder. 
 Model made by [indice](https://indice.in)
 
+[Preview here](https://psydack.github.io/arkit-test-sample/)
+
 ## USAGE
 
 Just clone or fork and run from your IOS Safari.
