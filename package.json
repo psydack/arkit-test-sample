@@ -1,0 +1,27 @@
+{
+  "title": "ARKIT test Sample",
+  "name": "arkit-sample-page",
+  "version": "1.0.1",
+  "description": "Simple ARKIT with models",
+  "keywords": [
+    "ARKIT",
+    "html",
+    "bootstrap"
+  ],
+  "homepage": "https://psydack.github.io/arkit-test-sample/",
+  "author": "psydack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psydack/arkit-test-sample.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.1.1",
+    "jquery": "3.3.1",
+    "popper.js": "^1.14.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
+  }
+}
